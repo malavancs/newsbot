@@ -1,0 +1,6 @@
+/credentials.py
+*.pyc
+.idea/
+.vscode/
+/myenv
+__pycache__/
